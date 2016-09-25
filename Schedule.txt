@@ -1,0 +1,5 @@
+Schedule
+TR		11-1150 Algorithms
+		2-315 Computer Statistics
+		440-6 Front End
+		6-730 App Dev
